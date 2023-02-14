@@ -1,0 +1,18 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\bin\Debug\mook_LineRect.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\bin\Debug\mook_LineRect.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\bin\Debug\mook_LineRect.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.Form1.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.pdb
+C:\cs\Chap5\mook_LineRect\mook_LineRect\bin\Debug\mook_LineRect.exe.config
+C:\cs\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.exe
+C:\cs\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.pdb
+C:\cs\Chap5\mook_LineRect\mook_LineRect\bin\Debug\mook_LineRect.exe
+C:\cs\Chap5\mook_LineRect\mook_LineRect\bin\Debug\mook_LineRect.pdb
+C:\cs\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.csprojResolveAssemblyReference.cache
+C:\cs\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.Form1.resources
+C:\cs\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.Properties.Resources.resources
+C:\cs\Chap5\mook_LineRect\mook_LineRect\obj\Debug\mook_LineRect.csproj.GenerateResource.Cache

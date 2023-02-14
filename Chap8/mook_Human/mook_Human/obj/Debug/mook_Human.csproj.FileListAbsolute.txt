@@ -1,0 +1,17 @@
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\bin\Debug\mook_Human.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.csprojResolveAssemblyReference.cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.Properties.Resources.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.csproj.GenerateResource.Cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\bin\Debug\mook_Human.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\bin\Debug\mook_Human.pdb
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.pdb
+C:\cs\Chap8\mook_Human\mook_Human\bin\Debug\mook_Human.exe.config
+C:\cs\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.exe
+C:\cs\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.pdb
+C:\cs\Chap8\mook_Human\mook_Human\bin\Debug\mook_Human.exe
+C:\cs\Chap8\mook_Human\mook_Human\bin\Debug\mook_Human.pdb
+C:\cs\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.csprojResolveAssemblyReference.cache
+C:\cs\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.Properties.Resources.resources
+C:\cs\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.csproj.GenerateResource.Cache
+C:\cs\Chap8\mook_Human\mook_Human\obj\Debug\mook_Human.csproj.ResolveComReference.cache

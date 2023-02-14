@@ -1,0 +1,10 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_PlaySound\bin\Debug\mook_PlaySound.dll
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_PlaySound\bin\Debug\mook_PlaySound.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_PlaySound\obj\Debug\mook_PlaySound.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_PlaySound\obj\Debug\mook_PlaySound.dll
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_PlaySound\obj\Debug\mook_PlaySound.pdb
+C:\cs\Chap3\mook_WinControl02\mook_PlaySound\bin\Debug\mook_PlaySound.dll
+C:\cs\Chap3\mook_WinControl02\mook_PlaySound\bin\Debug\mook_PlaySound.pdb
+C:\cs\Chap3\mook_WinControl02\mook_PlaySound\obj\Debug\mook_PlaySound.csprojResolveAssemblyReference.cache
+C:\cs\Chap3\mook_WinControl02\mook_PlaySound\obj\Debug\mook_PlaySound.dll
+C:\cs\Chap3\mook_WinControl02\mook_PlaySound\obj\Debug\mook_PlaySound.pdb

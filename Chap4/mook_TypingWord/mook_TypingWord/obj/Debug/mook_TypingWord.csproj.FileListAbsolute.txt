@@ -1,0 +1,20 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\bin\Debug\mook_TypingWord.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\bin\Debug\mook_TypingWord.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\bin\Debug\mook_TypingWord.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.Form3.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.Form1.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.csprojResolveAssemblyReference.cache
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\bin\Debug\mook_TypingWord.exe.config
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.exe
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.pdb
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\bin\Debug\mook_TypingWord.exe
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\bin\Debug\mook_TypingWord.pdb
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.csprojResolveAssemblyReference.cache
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.Form1.resources
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.Form3.resources
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.Properties.Resources.resources
+C:\cs\Chap4\mook_TypingWord\mook_TypingWord\obj\Debug\mook_TypingWord.csproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe.config
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.pdb
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.csprojResolveAssemblyReference.cache
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.Form1.resources
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.Properties.Resources.resources
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.csproj.GenerateResource.Cache
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.exe
+C:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.pdb
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe.config
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.exe
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.pdb
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.pdb
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.csprojResolveAssemblyReference.cache
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.Form1.resources
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.Properties.Resources.resources
+D:\SecurityCS\Chap01\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.pdb
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe.config
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.exe
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.pdb
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.exe
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\bin\Debug\mook_ScreenCapture.pdb
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.csprojResolveAssemblyReference.cache
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.Form1.resources
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.Properties.Resources.resources
+C:\cs\Chap5\mook_ScreenCapture\mook_ScreenCapture\obj\Debug\mook_ScreenCapture.csproj.GenerateResource.Cache

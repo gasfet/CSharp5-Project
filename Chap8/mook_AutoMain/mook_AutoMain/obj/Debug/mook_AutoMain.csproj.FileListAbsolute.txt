@@ -1,0 +1,17 @@
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.pdb
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.csprojResolveAssemblyReference.cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.Properties.Resources.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.csproj.GenerateResource.Cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.pdb
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.exe.config
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.exe
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.pdb
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.exe
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\bin\Debug\mook_AutoMain.pdb
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.csprojResolveAssemblyReference.cache
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.Form1.resources
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.Properties.Resources.resources
+C:\cs\Chap8\mook_AutoMain\mook_AutoMain\obj\Debug\mook_AutoMain.csproj.GenerateResource.Cache

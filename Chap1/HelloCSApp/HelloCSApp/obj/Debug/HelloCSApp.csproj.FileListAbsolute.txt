@@ -1,0 +1,11 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSApp\HelloCSApp\bin\Debug\HelloCSApp.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSApp\HelloCSApp\bin\Debug\HelloCSApp.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSApp\HelloCSApp\bin\Debug\HelloCSApp.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSApp\HelloCSApp\obj\Debug\HelloCSApp.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSApp\HelloCSApp\obj\Debug\HelloCSApp.pdb
+C:\cs\Chap1\HelloCSApp\HelloCSApp\bin\Debug\HelloCSApp.exe.config
+C:\cs\Chap1\HelloCSApp\HelloCSApp\obj\Debug\HelloCSApp.exe
+C:\cs\Chap1\HelloCSApp\HelloCSApp\obj\Debug\HelloCSApp.pdb
+C:\cs\Chap1\HelloCSApp\HelloCSApp\bin\Debug\HelloCSApp.exe
+C:\cs\Chap1\HelloCSApp\HelloCSApp\bin\Debug\HelloCSApp.pdb
+C:\cs\Chap1\HelloCSApp\HelloCSApp\obj\Debug\HelloCSApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\bin\Debug\mook_NetCheck.exe.config
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\bin\Debug\mook_NetCheck.exe
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\bin\Debug\mook_NetCheck.pdb
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\obj\Debug\mook_NetCheck.csprojResolveAssemblyReference.cache
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\obj\Debug\mook_NetCheck.Properties.Resources.resources
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\obj\Debug\mook_NetCheck.csproj.GenerateResource.Cache
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\obj\Debug\mook_NetCheck.exe
+C:\cs\Chap9\mook_NetCheck\mook_NetCheck\obj\Debug\mook_NetCheck.pdb

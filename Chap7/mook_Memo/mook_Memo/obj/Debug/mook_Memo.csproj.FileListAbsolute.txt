@@ -1,0 +1,18 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\bin\Debug\mook_Memo.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\bin\Debug\mook_Memo.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\bin\Debug\mook_Memo.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.Form1.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.pdb
+C:\cs\Chap7\mook_Memo\mook_Memo\bin\Debug\mook_Memo.exe.config
+C:\cs\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.exe
+C:\cs\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.pdb
+C:\cs\Chap7\mook_Memo\mook_Memo\bin\Debug\mook_Memo.exe
+C:\cs\Chap7\mook_Memo\mook_Memo\bin\Debug\mook_Memo.pdb
+C:\cs\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.csprojResolveAssemblyReference.cache
+C:\cs\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.Form1.resources
+C:\cs\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.Properties.Resources.resources
+C:\cs\Chap7\mook_Memo\mook_Memo\obj\Debug\mook_Memo.csproj.GenerateResource.Cache

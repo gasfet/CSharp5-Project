@@ -1,0 +1,10 @@
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\bin\Debug\mook_FormSlidMag.exe.config
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.csprojResolveAssemblyReference.cache
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.Properties.Resources.resources
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.csproj.GenerateResource.Cache
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\bin\Debug\mook_FormSlidMag.exe
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\bin\Debug\mook_FormSlidMag.pdb
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.Form1.resources
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.Form2.resources
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.exe
+C:\cs\Chap2\mook_WinControl01\mook_FormSlidMag\obj\Debug\mook_FormSlidMag.pdb

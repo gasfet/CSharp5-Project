@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_WinControl02", "mook_WinControl02\mook_WinControl02.csproj", "{5742052C-A730-4442-B395-184A4F641C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_FormShow", "mook_FormShow\mook_FormShow.csproj", "{E10E90CC-3FBC-48E3-A886-C95AB43B18AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_PlaySound", "mook_PlaySound\mook_PlaySound.csproj", "{E92D512B-0A3F-4D17-8643-7ABEB5D84765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_Screen", "mook_Screen\mook_Screen.csproj", "{24D91AAE-E2F3-4F42-BC6E-05D8C16F9AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_SystemMemoryCheck", "mook_SystemMemoryCheck\mook_SystemMemoryCheck.csproj", "{FCC105C0-06E7-4616-AF4D-319EAB7BA31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_WavSound", "mook_WavSound\mook_WavSound.csproj", "{418C637D-EFF9-4217-88CC-0BFEFCCAE84C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_PreventKill", "mook_PreventKill\mook_PreventKill.csproj", "{44BD727A-3535-4933-ABF9-E205B194817C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_PreventKillAgent", "mook_PreventKillAgent\mook_PreventKillAgent.csproj", "{A39ECB00-F6D3-49CD-8E47-069FE08A74C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5742052C-A730-4442-B395-184A4F641C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5742052C-A730-4442-B395-184A4F641C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5742052C-A730-4442-B395-184A4F641C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5742052C-A730-4442-B395-184A4F641C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10E90CC-3FBC-48E3-A886-C95AB43B18AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10E90CC-3FBC-48E3-A886-C95AB43B18AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10E90CC-3FBC-48E3-A886-C95AB43B18AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10E90CC-3FBC-48E3-A886-C95AB43B18AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92D512B-0A3F-4D17-8643-7ABEB5D84765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92D512B-0A3F-4D17-8643-7ABEB5D84765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92D512B-0A3F-4D17-8643-7ABEB5D84765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92D512B-0A3F-4D17-8643-7ABEB5D84765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D91AAE-E2F3-4F42-BC6E-05D8C16F9AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D91AAE-E2F3-4F42-BC6E-05D8C16F9AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D91AAE-E2F3-4F42-BC6E-05D8C16F9AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D91AAE-E2F3-4F42-BC6E-05D8C16F9AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC105C0-06E7-4616-AF4D-319EAB7BA31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC105C0-06E7-4616-AF4D-319EAB7BA31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC105C0-06E7-4616-AF4D-319EAB7BA31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC105C0-06E7-4616-AF4D-319EAB7BA31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418C637D-EFF9-4217-88CC-0BFEFCCAE84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418C637D-EFF9-4217-88CC-0BFEFCCAE84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418C637D-EFF9-4217-88CC-0BFEFCCAE84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418C637D-EFF9-4217-88CC-0BFEFCCAE84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BD727A-3535-4933-ABF9-E205B194817C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BD727A-3535-4933-ABF9-E205B194817C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BD727A-3535-4933-ABF9-E205B194817C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BD727A-3535-4933-ABF9-E205B194817C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39ECB00-F6D3-49CD-8E47-069FE08A74C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39ECB00-F6D3-49CD-8E47-069FE08A74C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39ECB00-F6D3-49CD-8E47-069FE08A74C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39ECB00-F6D3-49CD-8E47-069FE08A74C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

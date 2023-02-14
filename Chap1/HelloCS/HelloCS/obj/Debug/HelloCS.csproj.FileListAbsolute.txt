@@ -1,0 +1,6 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCS\HelloCS\bin\Debug\HelloCS.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCS\HelloCS\bin\Debug\HelloCS.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCS\HelloCS\bin\Debug\HelloCS.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCS\HelloCS\obj\Debug\HelloCS.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCS\HelloCS\obj\Debug\HelloCS.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCS\HelloCS\obj\Debug\HelloCS.pdb

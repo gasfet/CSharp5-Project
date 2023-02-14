@@ -1,0 +1,12 @@
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\bin\Debug\mook_AutoUpdate.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\bin\Debug\mook_AutoUpdate.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\bin\Debug\mook_AutoUpdate.pdb
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.csprojResolveAssemblyReference.cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.Form1.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.Properties.Resources.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.csproj.GenerateResource.Cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.pdb
+C:\cs\Chap8\mook_AutoUpdate\mook_AutoUpdate\bin\Debug\mook_AutoUpdate.exe.config
+C:\cs\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.exe
+C:\cs\Chap8\mook_AutoUpdate\mook_AutoUpdate\obj\Debug\mook_AutoUpdate.pdb

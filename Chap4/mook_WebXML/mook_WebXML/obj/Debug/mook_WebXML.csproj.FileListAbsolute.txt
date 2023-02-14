@@ -1,0 +1,16 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\bin\Debug\mook_WebXML.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\bin\Debug\mook_WebXML.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\bin\Debug\mook_WebXML.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.pdb
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\bin\Debug\mook_WebXML.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.exe
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.pdb
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\bin\Debug\mook_WebXML.exe
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\bin\Debug\mook_WebXML.pdb
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\02. C_5.0\project_cs50\Chap4\mook_WebXML\mook_WebXML\obj\Debug\mook_WebXML.Form1.resources

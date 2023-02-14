@@ -1,0 +1,18 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\bin\Debug\mook_Painting.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\bin\Debug\mook_Painting.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\bin\Debug\mook_Painting.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.Form1.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.pdb
+C:\cs\Chap5\mook_Painting\mook_Painting\bin\Debug\mook_Painting.exe.config
+C:\cs\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.exe
+C:\cs\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.pdb
+C:\cs\Chap5\mook_Painting\mook_Painting\bin\Debug\mook_Painting.exe
+C:\cs\Chap5\mook_Painting\mook_Painting\bin\Debug\mook_Painting.pdb
+C:\cs\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.csprojResolveAssemblyReference.cache
+C:\cs\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.Form1.resources
+C:\cs\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.Properties.Resources.resources
+C:\cs\Chap5\mook_Painting\mook_Painting\obj\Debug\mook_Painting.csproj.GenerateResource.Cache

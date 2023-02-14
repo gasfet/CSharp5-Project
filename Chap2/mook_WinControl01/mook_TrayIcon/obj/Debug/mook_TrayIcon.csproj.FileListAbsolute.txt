@@ -1,0 +1,20 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.Form1.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.pdb
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe.config
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.exe
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.pdb
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.exe
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\bin\Debug\mook_TrayIcon.pdb
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.csprojResolveAssemblyReference.cache
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.Form1.resources
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.Properties.Resources.resources
+C:\cs\Chap2\mook_WinControl01\mook_TrayIcon\obj\Debug\mook_TrayIcon.csproj.GenerateResource.Cache

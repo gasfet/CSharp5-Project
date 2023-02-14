@@ -1,0 +1,23 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_PlaySound.dll
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_PlaySound.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.pdb
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.pdb
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.exe.config
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.exe
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.pdb
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.exe
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_WavSound.pdb
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_PlaySound.dll
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\bin\Debug\mook_PlaySound.pdb
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.csprojResolveAssemblyReference.cache
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.Properties.Resources.resources
+C:\cs\Chap3\mook_WinControl02\mook_WavSound\obj\Debug\mook_WavSound.csproj.GenerateResource.Cache

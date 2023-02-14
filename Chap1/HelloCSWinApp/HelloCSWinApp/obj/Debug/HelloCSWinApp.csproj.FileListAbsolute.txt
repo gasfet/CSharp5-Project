@@ -1,0 +1,16 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\bin\Debug\HelloCSWinApp.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\bin\Debug\HelloCSWinApp.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\bin\Debug\HelloCSWinApp.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.pdb
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\bin\Debug\HelloCSWinApp.exe.config
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.exe
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.pdb
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\bin\Debug\HelloCSWinApp.exe
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\bin\Debug\HelloCSWinApp.pdb
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.csprojResolveAssemblyReference.cache
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.Properties.Resources.resources
+C:\cs\Chap1\HelloCSWinApp\HelloCSWinApp\obj\Debug\HelloCSWinApp.csproj.GenerateResource.Cache

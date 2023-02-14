@@ -1,0 +1,11 @@
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.pdb
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csprojResolveAssemblyReference.cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.Properties.Resources.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.csproj.GenerateResource.Cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.pdb
+C:\cs\Chap8\mook_AutoAdmin\mook_AutoAdmin\bin\Debug\mook_AutoAdmin.exe.config
+C:\cs\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.exe
+C:\cs\Chap8\mook_AutoAdmin\mook_AutoAdmin\obj\Debug\mook_AutoAdmin.pdb

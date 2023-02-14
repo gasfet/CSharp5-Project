@@ -1,0 +1,16 @@
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\bin\Debug\mook_Gugudan.exe.config
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\bin\Debug\mook_Gugudan.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\bin\Debug\mook_Gugudan.pdb
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.csprojResolveAssemblyReference.cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.Properties.Resources.resources
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.csproj.GenerateResource.Cache
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.exe
+D:\02. 연구\02. 원고\06. C#5.0\project_cs50\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.pdb
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\bin\Debug\mook_Gugudan.exe.config
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.exe
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.pdb
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\bin\Debug\mook_Gugudan.exe
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\bin\Debug\mook_Gugudan.pdb
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.csprojResolveAssemblyReference.cache
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.Properties.Resources.resources
+C:\cs\Chap2\mook_WinControl01\mook_Gugudan\obj\Debug\mook_Gugudan.csproj.GenerateResource.Cache

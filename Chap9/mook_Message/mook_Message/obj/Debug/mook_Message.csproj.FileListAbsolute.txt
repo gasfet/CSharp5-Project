@@ -1,0 +1,18 @@
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\bin\Debug\mook_Message.exe.config
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\bin\Debug\mook_Message.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\bin\Debug\mook_Message.pdb
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.csprojResolveAssemblyReference.cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.Form1.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.Properties.Resources.resources
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.csproj.GenerateResource.Cache
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.exe
+D:\04. 원고\01. C#\02. C#5.0\project_cs50\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.pdb
+C:\cs\Chap9\mook_Message\mook_Message\bin\Debug\mook_Message.exe.config
+C:\cs\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.exe
+C:\cs\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.pdb
+C:\cs\Chap9\mook_Message\mook_Message\bin\Debug\mook_Message.exe
+C:\cs\Chap9\mook_Message\mook_Message\bin\Debug\mook_Message.pdb
+C:\cs\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.csprojResolveAssemblyReference.cache
+C:\cs\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.Form1.resources
+C:\cs\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.Properties.Resources.resources
+C:\cs\Chap9\mook_Message\mook_Message\obj\Debug\mook_Message.csproj.GenerateResource.Cache
