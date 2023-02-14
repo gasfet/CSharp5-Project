@@ -16,3 +16,13 @@ C:\cs\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.csprojResolveAssem
 C:\cs\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.Form1.resources
 C:\cs\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.Properties.Resources.resources
 C:\cs\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.csproj.GenerateResource.Cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\bin\Debug\mook_Diary.exe.config
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\bin\Debug\mook_Diary.exe
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\bin\Debug\mook_Diary.pdb
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.csproj.AssemblyReference.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.Form1.resources
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.Properties.Resources.resources
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.csproj.GenerateResource.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.csproj.CoreCompileInputs.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.exe
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Diary\obj\Debug\mook_Diary.pdb
