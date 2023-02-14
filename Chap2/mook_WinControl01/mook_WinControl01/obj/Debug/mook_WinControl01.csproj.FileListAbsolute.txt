@@ -12,3 +12,13 @@ C:\cs\Chap2\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.exe
 C:\cs\Chap2\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.pdb
 C:\cs\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.Properties.Resources.resources
 C:\cs\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.csproj.GenerateResource.Cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.exe.config
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.exe
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\bin\Debug\mook_WinControl01.pdb
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.csproj.AssemblyReference.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.Properties.Resources.resources
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.csproj.GenerateResource.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.csproj.CoreCompileInputs.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.exe
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.pdb
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_WinControl01\obj\Debug\mook_WinControl01.Form1.resources

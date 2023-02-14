@@ -75,5 +75,15 @@ namespace mook_WinControl01
                 }
             }
         }
+
+        private void txtId_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPwd_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

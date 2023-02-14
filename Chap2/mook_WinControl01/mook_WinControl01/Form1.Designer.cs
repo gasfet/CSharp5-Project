@@ -62,6 +62,7 @@
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(176, 21);
             this.txtId.TabIndex = 2;
+            this.txtId.TextChanged += new System.EventHandler(this.txtId_TextChanged);
             // 
             // txtPwd
             // 
@@ -71,6 +72,7 @@
             this.txtPwd.PasswordChar = '*';
             this.txtPwd.Size = new System.Drawing.Size(176, 21);
             this.txtPwd.TabIndex = 3;
+            this.txtPwd.TextChanged += new System.EventHandler(this.txtPwd_TextChanged);
             this.txtPwd.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPwd_KeyDown);
             // 
             // btnLogin
@@ -110,7 +112,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 192);
+            this.ClientSize = new System.Drawing.Size(300, 204);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnLogin);

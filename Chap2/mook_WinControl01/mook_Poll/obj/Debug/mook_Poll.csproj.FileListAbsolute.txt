@@ -13,3 +13,12 @@ C:\cs\Chap2\mook_WinControl01\mook_Poll\bin\Debug\mook_Poll.pdb
 C:\cs\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.csprojResolveAssemblyReference.cache
 C:\cs\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.Properties.Resources.resources
 C:\cs\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.csproj.GenerateResource.Cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\bin\Debug\mook_Poll.exe.config
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\bin\Debug\mook_Poll.exe
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\bin\Debug\mook_Poll.pdb
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.csproj.AssemblyReference.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.Properties.Resources.resources
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.csproj.GenerateResource.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.csproj.CoreCompileInputs.cache
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.exe
+D:\myGits\c_shap\CSharp5-Project\Chap2\mook_WinControl01\mook_Poll\obj\Debug\mook_Poll.pdb
